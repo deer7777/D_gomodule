@@ -5,5 +5,5 @@ import (
 )
 
 func D_print() {
-	fmt.Println("version D_v1.0.0")
+	fmt.Println("version D_v2.0.0")
 }
